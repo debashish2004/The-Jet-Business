@@ -1,0 +1,1 @@
+This is static file and it is manually added
